@@ -1,0 +1,19 @@
+@font-face {
+	font-family: 'FiraGO bold';
+	src: url(fonts/FiraGO-BoldItalic.eot);
+	src: url(fonts/FiraGO-BoldItalic.eot?#iefix) format('embedded-opentype'),
+		 url(fonts/FiraGO-BoldItalic.woff2) format('woff2'),
+		 url(fonts/FiraGO-BoldItalic.woff) format('woff'),
+		 url(fonts/FiraGO-BoldItalic.ttf) format('truetype'),
+		 url(fonts/FiraGO-BoldItalic.svg#ka_kolhetiregular) format('svg')
+}
+
+@font-face {
+	font-family: 'FiraGO';
+	src: url(fonts/FiraGO-Regular.eot);
+	src: url(fonts/FiraGO-Regular.eot?#iefix) format('embedded-opentype'),
+		 url(fonts/FiraGO-Regular.woff2) format('woff2'),
+		 url(fonts/FiraGO-Regular.woff) format('woff'),
+		 url(fonts/FiraGO-Regular.ttf) format('truetype'),
+		 url(fonts/FiraGO-Regular.svg#ka_kolhetiregular) format('svg')
+}
